@@ -36,8 +36,8 @@ Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to t
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/blaycoder/Easybank-Landing-Page)
+- Live Site URL: (https://blaycoder.github.io/Easybank-Landing-Page/)
 
 ## My process
 
